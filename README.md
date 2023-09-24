@@ -1,8 +1,8 @@
 # Line-Following and Maze-Solving Robot
 
-## Fully functional line-following and maze-solving programs written in C deployed on the [Pololu 3pi Robot](https://www.pololu.com/docs/0J21/all).
+## Fully functional line-following and maze-solving programs written in C for the [Pololu 3pi Robot](https://www.pololu.com/docs/0J21/all).
 
-These two projects were developed for a university microcontroller course. They were developed and tested using Microchip Studio and deployed and debugged on a Pololu 3pi Robot with an AVR microcontroller through an [ATMEL-ICE](https://www.microchip.com/en-us/development-tool/atatmel-ice). The program uses the 5 reflectance sensors to determine its position on a black line and adjusts its motors accordingly.
+These two projects were created for a university microcontroller course. They were developed and tested using Microchip Studio and deployed and debugged on a Pololu 3pi Robot with an AVR microcontroller through an [ATMEL-ICE](https://www.microchip.com/en-us/development-tool/atatmel-ice). The program uses the 5 reflectance sensors to determine its position on a black line and adjusts its motors accordingly.
 
 ### Line Following Project
 
