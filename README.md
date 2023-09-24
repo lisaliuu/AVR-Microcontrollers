@@ -13,7 +13,11 @@ These two projects were developed for a university microcontroller course. They 
 3. Adjust the left and right motor speeds so that only the middle sensor senses dark.
 4. Repeat steps 2-3
 
-#### Demo
+#### Watch the Demo
+
+<a href="https://youtu.be/tLwPTCkFpbY" target="_blank">
+<img src="https://img.youtube.com/vi/tLwPTCkFpbY/0.jpg" alt="Watch the demo">
+</a>
 
 ### Maze Solving Project
 
@@ -27,10 +31,14 @@ This algorithm extends the line following algorithm to add logic to detect and s
 | Straight, U-turn, Left | Right            |
 | Left, U-turn, Straight | Right            |
 
-#### Demo
+#### Watch the Demo
+
+<a href="https://youtu.be/NrizJmnjBWc" target="_blank">
+<img src="https://img.youtube.com/vi/NrizJmnjBWc/0.jpg" alt="Watch the demo">
+</a>
 
 #### Notes
 
 - This algorithm that there are no loops in the maze.
 - Blinking the red and green LEDs on the robot were used as a way of real-time debugging during the development of the program.
-- The robot's awareness of intersections (from reading from reflectance sensors) is sensitive to the changes of brightness in the environment. Further calibration of the sensors might be needed.
+- The robot's awareness of intersections (from reading from reflectance sensors) is sensitive to the changes of brightness in the environment. Further calibration of the might be needed.
